@@ -1,9 +1,28 @@
-Hi, I'm Gerson Fernandes
+# Hi, I'm Gerson 👋
 
-Senior Full Stack Developer | Automation & RPA | API Integration
+I work at the intersection of business, process optimization, and technology.
 
-I help businesses automate processes, integrate systems, and reduce operational costs through reliable software solutions.
+## What I do
+- Business process automation and intelligence
+- API integration and system orchestration
+- Revenue leakage detection and operational analytics
+- Technical analysis with business impact focus
 
-My focus is on automation, backend development, and fixing real production problems.
+## Strategic mindset
+I design solutions that connect business needs with technical execution, focusing on efficiency, automation, and measurable financial results.
 
-I work with clear communication, responsibility, and business-oriented solutions.
+## Featured projects
+- CognitiveFlow – Business Process Intelligence Engine
+- FlowRevenue – Intelligent Revenue Leakage Detection
+- Business Process Automation
+- API Integration Hub
+
+## Technologies & concepts
+- Python
+- APIs & integrations
+- Process analysis
+- Automation mindset
+- SaaS & product thinking
+
+## Professional focus
+I’m interested in projects where technology directly impacts operational efficiency and revenue growth.
